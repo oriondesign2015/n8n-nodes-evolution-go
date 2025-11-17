@@ -1,0 +1,19 @@
+{
+	"node": "n8n-nodes-evolution-go",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Communication", "Messaging"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://doc.evolution-api.com/"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://doc.evolution-api.com/"
+			}
+		]
+	}
+}
+
