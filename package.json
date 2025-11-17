@@ -1,9 +1,9 @@
 {
 	"name": "n8n-nodes-evolution-go",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Evolution Go API is a REST API developed in Go to integrate WhatsApp with applications, offering support for multiple instances and advanced messaging features.",
 	"license": "MIT",
-	"homepage": "https://github.com/n8n-io/n8n-nodes-starter",
+	"homepage": "https://github.com/oriondesign2015/n8n-nodes-evolution-go",
 	"keywords": [
 		"n8n-community-node-package",
 		"n8n-nodes-evolution-go",
@@ -16,7 +16,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/n8n-io/n8n-nodes-starter"
+		"url": "git+https://github.com/oriondesign2015/n8n-nodes-evolution-go.git"
 	},
 	"scripts": {
 		"build": "n8n-node build",
